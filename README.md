@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/30120579/README.md)
-# VirtualMouseServer
+# 体感键鼠服务端
 
-Windows 端服务器，配合鸿蒙手表端 [VirtualMouse](https://github.com/) 使用，通过 WebSocket 接收手表指令控制电脑鼠标和键盘。
+Windows 端服务器，配合鸿蒙手表端收费软件《体感键鼠》使用，通过 WebSocket 接收手表指令控制电脑鼠标和键盘。
 
 ## 功能
 
