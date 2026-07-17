@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/30120579/README.md)
 # 体感键鼠服务端
 
-Windows 端服务器，配合鸿蒙手表端收费软件《体感键鼠》使用，通过 WebSocket 接收手表指令控制电脑鼠标和键盘。
+Windows 端服务器，配合鸿蒙手表端收费软件《体感键鼠》使用，通过 WebSocket 接收手表指令控制电脑鼠标和键盘。由于该软件未签名，下载·安装时提示安全问题是正常情况。
 
 ## 功能
 
